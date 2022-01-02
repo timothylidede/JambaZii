@@ -2,11 +2,6 @@
 
 An Android Game that involves a hoodlum whose main aim is to collect as many coins as he can while evading the pitfalls.
 
-# IDE
-
-* Unity
-* Visual Studio Code
-
 # What I Learnt
 
 * How to Use Git with Unity
